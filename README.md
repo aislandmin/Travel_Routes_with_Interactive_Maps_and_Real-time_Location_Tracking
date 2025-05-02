@@ -9,7 +9,7 @@ To develop an Android application to help users plan and manage their travel rou
 •  Manage the lifecycle of map components for a seamless user experience.
 •  Implement advanced location-based features for enhanced app functionality.
 
-## functionalities
+## Functionalities
 -	Displaying a list of seven locations in ontario.
 -	Display google map on clicking each item on the list with the Google Maps SDK.
 -	Show marker on map on destination location.
@@ -26,3 +26,8 @@ To develop an Android application to help users plan and manage their travel rou
 -	Manage user interactions with map events (e.g., taps, long presses).
 -	Manage the lifecycle of map components for a seamless user experience.
 
+## Screenshots
+<img src="/screenshots/Screenshot1.png" style="width:50%; height:50%;">
+<img src="/screenshots/Screenshot2.png" style="width:50%; height:50%;">
+<img src="/screenshots/Screenshot3.png" style="width:50%; height:50%;">
+<img src="/screenshots/Screenshot4.png" style="width:50%; height:50%;">
